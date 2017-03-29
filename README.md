@@ -3,6 +3,7 @@
 
 
 # Prompt:
+*see HighestScoresPrompt.pdf*
 
 Highest Scores
 Problem Text:
