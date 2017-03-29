@@ -1,0 +1,11 @@
+{
+  "name": "highest-scores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "highest.js",
+  "scripts": {
+    "getscores": "node highest.js score_recs.data 3"
+  },
+  "author": "GT Deng",
+  "license": "ISC"
+}
